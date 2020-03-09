@@ -45,7 +45,7 @@ const textNodes = [
     text: 'You wake up in a strange place and you see a jar of blue goo near you. ',
     options: [
       {
-        text: 'Take the goo 🔮',
+        text: 'Take the goo <img src="img/character1.png>',
         setState: { blueGoo: true },
         nextText: 2
       },
