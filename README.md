@@ -1,6 +1,6 @@
 # Text Adventure
 
-You wake up in a strange place and you see a jar of blue goo near you... Choose your own adventure mini game in simple HTML, CSS and JS.
+You wake up in a strange place and you see a jar of blue goo near you... This is a mini game in a style of a choose your own adventure book, written in HTML, CSS and JS.
 
 ## View Demo
 
