@@ -14,4 +14,8 @@ You wake up in a strange place and you see a jar of blue goo near you... This is
 
 ## Author
 
-**Enora Lecuyer** 
+Enora Lecuyer
+
+## License
+
+MIT License
