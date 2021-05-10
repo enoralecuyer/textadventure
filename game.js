@@ -182,7 +182,7 @@ const textNodes = [
   },
   {
     id: 11,
-    text: 'You threw your jar of goo at the monster and it exploded. After the dust settled you saw the monster was destroyed. Seeing your victory you decide to claim this castle as your and live out the rest of your days there.',
+    text: 'You threw your jar of goo at the monster and it exploded. After the dust settled you saw the monster was destroyed. Seeing your victory you decide to claim this castle as yours and live out the rest of your days there.',
     options: [
       {
         text: 'Congratulations. Play Again. 🏆',
